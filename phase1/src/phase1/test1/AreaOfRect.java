@@ -4,7 +4,7 @@ public class AreaOfRect {
 	
 	int area(int a, int b)
 	 {	
-		int c= a*b; 
+		int c= b*a; 
 		return c;
 	 }
 	 
